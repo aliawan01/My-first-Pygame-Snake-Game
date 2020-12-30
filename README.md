@@ -5,13 +5,14 @@ This is my first game made with pygame (it is a snake game)
 # Feel free to modify it as you wish
 
 # REQUIREMENTS
+
 - Python 3.4 < or higher
 - Pygame 2.0.0 < or higher
 
 # Installation
 # Windows
 - Install python3 from official website
-
+- Open command prompt or powershell and run the following command: pip install pygame
 # Mac
 - Install python3 from official website 
 - If you have Homebrew installed:
