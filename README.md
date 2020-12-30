@@ -21,22 +21,22 @@ pip3 install pygame
 
 # Linux
 # Debian/Ubuntu
-sudo apt install python3
+sudo apt install python3 &&
 sudo apt install python3-pip
 
 Installing Pygame:
-sudo apt install python3-pygame
-OR
+sudo apt install python3-pygame 
+OR 
 pip3 install pygame
 
 
 # Fedora
-sudo dnf install python3
+sudo dnf install python3 && 
 sudo dnf install python3-pip
 
 Installing Pygame:
-sudo dnf install python3-pygame
-OR
+sudo dnf install python3-pygame 
+OR 
 pip3 install pygame
 
 # OpenSUSE
@@ -48,10 +48,10 @@ OR
 pip3 install pygame
 
 # Arch
-sudo pacman -S python
+sudo pacman -S python && 
 sudo pacman -S python-pip
 
 Installing Pygame:
-sudo pacman -S python-pygame
-OR
+sudo pacman -S python-pygame 
+OR 
 pip3 install pygame
