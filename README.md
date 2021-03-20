@@ -1,4 +1,4 @@
-# My first Pygame Snake Game
+# My first Pygame Snake Game 🐍
 
 This is my first game made with pygame (it is a snake game)
 
