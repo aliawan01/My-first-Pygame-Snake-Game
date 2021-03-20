@@ -6,8 +6,8 @@ This is my first game made with pygame (it is a snake game)
 
 ## REQUIREMENTS
 
-- Python 3.4 < or higher
-- Pygame 2.0.0 < or higher
+- [x] Python 3.4 < or higher
+- [x] Pygame 2.0.0 < or higher
 
 # Installation
 ## Windows
