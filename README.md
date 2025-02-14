@@ -1,6 +1,8 @@
 # My first Pygame Snake Game 🐍
 
-This is my first game made with pygame (it is a snake game)
+This is my first game made with pygame.
+![image](https://github.com/user-attachments/assets/b758506a-a406-47b7-987c-ecd8df7bb09c)
+
 
 ## Feel free to modify it as you wish
 
